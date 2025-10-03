@@ -15,13 +15,17 @@ docker create --name srv-web nginx:alpine
 Si creas un contenedor en Docker sin asignarle un nombre específico utilizando la opción --name, Docker asignará automáticamente un nombre aleatorio al contenedor. Este nombre suele consistir en una combinación de palabras y números.  
 
 Crear el contenedor usando la imagen hello-world
-# COMPLETAR
+
+```
+docker create hello-world
+```
 
 ### Listar los contenedores ejecutándose o no
 
 ```
 docker ps -a
 ```
+<img width="1418" height="106" alt="image" src="https://github.com/user-attachments/assets/92acc9d4-f843-410a-9d77-e6d91fef76c5" />
 
 ### Para iniciar un contenedor
 
