@@ -84,3 +84,6 @@ Es una buena práctica detener y eliminar todos los contenedores que dependan de
 ```
 docker rmi -f <nombre imagen>:<tag>
 ```
+
+<img width="574" height="74" alt="image" src="https://github.com/user-attachments/assets/6657e507-8122-4e78-8d77-9c2e7f40b446" />
+
