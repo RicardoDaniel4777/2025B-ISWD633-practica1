@@ -67,6 +67,7 @@ docker run --name srv-web2 nginx:alpine
 <img width="1080" height="507" alt="image" src="https://github.com/user-attachments/assets/59a4764a-b081-4e1a-8a0e-d6223c2276e1" />
 
 **¿Qué sucede luego de la ejecución del comando?**
+
 El contenedor se ejecuta en primer plano, por lo que la terminal se queda inhabilitada. Si queremos salir de esta opción es necesario presionar crtl + c.
 
 Cuando ejecutas un contenedor en primer plano sin la opción -d (modo detach), el contenedor captura la entrada estándar (stdin) del terminal, lo que significa que el terminal queda "atrapado" y no puedes introducir más comandos hasta que detengas el contenedor.
@@ -89,10 +90,14 @@ docker run -d --name srv-web3 nginx:alpine
 docker rm <nombre contenedor>
 ```
 Eliminar el contenedor que se creó a partir de la imagen hello-world 
-# COMPLETAR
+```
+docker rm exiting_austin
+```
+<img width="491" height="69" alt="image" src="https://github.com/user-attachments/assets/f7caaee5-03b0-43a8-9c3c-8437205ba511" />
 
 Verificar que el contenedor que se eliminó
-# COMPLETAR
+<img width="1415" height="185" alt="image" src="https://github.com/user-attachments/assets/457e5f63-398f-4888-be5e-a71e95934273" />
+
 
 ### Para eliminar un contenedor que esté ejecutándose
 
