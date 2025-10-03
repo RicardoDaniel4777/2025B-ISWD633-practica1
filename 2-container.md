@@ -33,7 +33,12 @@ docker ps -a
 docker start <nombre contenedor o identificador>
 ```
 Iniciar el contenedor srv-web 
-# COMPLETAR
+
+```
+docker start svr-web
+```
+<img width="449" height="60" alt="image" src="https://github.com/user-attachments/assets/b4445a5f-23bd-4a9c-93ee-e677de778a38" />
+
 
 ### Listar los contenedores ejecutándose
 ```
