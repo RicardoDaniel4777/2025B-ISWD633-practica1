@@ -14,18 +14,19 @@ docker pull <nombre imagen>:<tag>
 ```
 
 Descargar la imagen **hello-world**
-# COMPLETAR
+```
+docker pull hello-world
+```
 
 **¿Qué es nginx**
 
 Es un servidor web de código abierto de alto rendimiento y bajo consumo de recursos, utilizado también como proxy inverso, balanceador de carga y caché de contenido, capaz de gestionar miles de conexiones simultáneas gracias a su arquitectura basada en eventos
-# COMPLETAR
+
 Descargar la imagen  **nginx** en la versión **alpine**
 ```
 docker pull nginx:alpine
 ```
 
-# COMPLETAR
 
 ### Listar imágenes
 
