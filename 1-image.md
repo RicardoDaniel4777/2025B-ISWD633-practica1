@@ -17,7 +17,7 @@ Descargar la imagen **hello-world**
 # COMPLETAR
 
 **¿Qué es nginx**
-# COMPLETAR 
+Es un servidor web de código abierto de alto rendimiento y bajo consumo de recursos, utilizado también como proxy inverso, balanceador de carga y caché de contenido, capaz de gestionar miles de conexiones simultáneas gracias a su arquitectura basada en eventos
 
 Descargar la imagen  **nginx** en la versión **alpine**
 # COMPLETAR
