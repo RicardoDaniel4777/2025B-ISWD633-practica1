@@ -60,4 +60,4 @@ Para obtener la contraseña solicitada es necesario ingresar al contenedor.
 
 ![Imagen](jenkins.PNG)
 
-<img width="1909" height="1271" alt="image" src="https://github.com/user-attachments/assets/59f151f7-2bc7-4b5a-80ea-9aecd9b60c18" />
+<img width="1909" height="1271" alt="image" src="https://github.com/user-attachments/assets/942dc34e-3ba5-445d-9410-e8e056eadb40" />
