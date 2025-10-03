@@ -55,6 +55,7 @@ Inspeccionar la imagen hello-world
 
 
 **¿Con qué algoritmo se está generando el ID de la imagen**
+
 sha256
 
 ### Filtrar imágenes
