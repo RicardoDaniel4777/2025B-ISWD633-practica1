@@ -49,7 +49,8 @@ Ejecutar
 ```
 whoami
 ```
-# COLOCAR UNA CAPTURA DE PANTALLA
+<img width="596" height="153" alt="image" src="https://github.com/user-attachments/assets/4e73a043-1d6e-4117-aea6-3ec7f82f6efa" />
+
 
 **Si se visualiza el mensaje command not found, considerar**
 El problema se debe a que no se ha asignado un terminal de salida al contenedor al ejecutar el comando. Cuando usas docker exec -i jenkins-server /bin/bash en Windows, el comando se ejecuta pero no hay un terminal asignado para mostrar la salida del comando ls.
