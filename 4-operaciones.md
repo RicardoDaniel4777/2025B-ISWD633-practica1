@@ -14,8 +14,8 @@ El comando ls se usa para listar los archivos y directorios que se encuentran en
 Sirve para mostrar el contenido de un directorio en formato de lista larga, proporcionando más detalles sobre cada archivo o carpeta.
 
 ### Usar el contenedor de jenkins creado previamente y ejecutar el comando ls con el argumento -l
-# COMPLETAR
-# COLOCAR UNA CAPTURA DE PANTALLA
+<img width="573" height="484" alt="image" src="https://github.com/user-attachments/assets/c5112f70-4717-4af1-9fc9-4939781aff94" />
+
 
 ### Para ejecutar un shell interactivo en un contenedor de Docker especificado.
 El comando **docker exec** te permite acceder a la sesión shell de un contenedor en ejecución, estarás dentro del contenedor y podrás ejecutar comandos como si estuvieras en una terminal normal. 
